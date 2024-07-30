@@ -10,7 +10,7 @@ This is a helm chart for [Jellyfin](https://github.com/jellyfin/jellyfin/)
 ## TL;DR;
 
 ```shell
-$ git clone https://github.com/brianmcarey/jellyfin-helm.git
+$ git clone https://github.com/vanvuongngo/jellyfin-helm.git
 $ helm install ./jellyfin-helm
 ```
 
@@ -19,7 +19,7 @@ $ helm install ./jellyfin-helm
 To install the chart with the release name `my-release`:
 
 ```console
-git clone https://github.com/brianmcarey/jellyfin-helm.git
+git clone https://github.com/vanvuongngo/jellyfin-helm.git
 helm install  my-release ./jellyfin-helm
 ```
 
